@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bb13562-55ab-47ad-abab-09e31843a50c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Environment\apache-maven-3.6.1\maven-repo" />
+        <option name="mavenHome" value="E:/Environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="28zNrV9ESEy7K2Wc8c6vfJIklDi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module01/src/com/kuang/factory/abstract" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15940489" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang.factory.abstract1" />
+      <recent name="com.kuang.factory.method" />
+      <recent name="com.kuang.factory.simple" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAVAcode\GoF23\Module01\src\com\kuang\factory\abstract" />
+      <recent name="F:\JAVAcode\GoF23\Module01\src\com\kuang\factory\method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.factory.abstract1.Client" />
+      <module name="Module01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.factory.abstract1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.factory.method.Consumer" />
+      <module name="Module01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.factory.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.factory.simple.Consumer" />
+      <module name="Module01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.factory.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Consumer (1)" />
+        <item itemvalue="Application.Consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb13562-55ab-47ad-abab-09e31843a50c" name="Default Changelist" comment="" />
+      <created>1652215652911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652215652911</updated>
+      <workItem from="1652215654527" duration="12227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Project_Structure" timestamp="1652215666227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1652215666227" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1652228914584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1652228914584" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1652230270536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1652230270536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1652230270536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1652230270536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1652230270536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1652230270536" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1652230270536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1652230270536" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1652215712317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1652215712317" />
+    <state x="28" y="0" key="new project wizard" timestamp="1652215708318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1652215708318" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1652225515522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1652225515522" />
+  </component>
+</project>
